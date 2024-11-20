@@ -1,0 +1,14 @@
+{
+    "data": {
+        "bg": [
+            "https://necaptcha.nosdn.127.net/f0c21e24b39448afa98d61e1335a4afd.jpg",
+            "https://necaptcha-nosdn.126.net/f0c21e24b39448afa98d61e1335a4afd.jpg"
+        ],
+        "front": "请点击正向的大写R",
+        "token": "59def2eac026434a81a8f027c26dfd72",
+        "type": 11,
+        "zoneId": "CN31"
+    },
+    "error": 0,
+    "msg": "ok"
+}
